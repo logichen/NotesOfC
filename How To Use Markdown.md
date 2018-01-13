@@ -44,8 +44,6 @@ conclusion:1.can't go back.2.only'\>' can end these lines.<br>
     * 2-1-1text7333333333<br>
   * 2-2text8222222222<br> 
   * 2-3text9222222222<br>
-  6.use another way to wrap:'\<br>',look:<br>
-  just like this      
-        
-
+6.use another way to wrap:'\<br>',look:<br>
+just like this<br>
 end
