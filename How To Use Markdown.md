@@ -9,7 +9,7 @@ no 'tab'
 ##### title 5
 1.double 'space' then 'enter' to wrap:  
 2.use '\`' twice to highlight `the words within it` 
-3.use'\----'to divide 
+3.use'\----'to divide： 
 
 ----
 4.use '\>' several times to obtain this amazing style:
@@ -22,15 +22,27 @@ no 'tab'
 >>tow'\>'  
 >>>three'\>'  
 >>>>four'\>'  
->>>>>five'\>' 
-<br>
-5.several'tab+star+space's to obtain this:  
-* 1111  
-  * 22222  
-      * 33333  
-        * 4444  
-        6.use another way to wrap:'\<br>',look:<br>
-        
+>>>>>five'\>' <br>
+
+
+>back1<br>
+>>back2<br>
+>>>back3<br>
+>>>>back4<br>
+>>>>>back5<br>
+5.several'tab+star+space's to obtain this:<br> 
+* 1text1<br>
+  * 1-1text2222222222<br>
+    * 1-1-1text3333333333<br>
+  * 1-2text4222222222<br> 
+  * 1-3text4222222222<br>
+* 2text5111111111111<br>
+  * 2-1text6222222222<br>
+    * 2-1-1text7333333333<br>
+  * 2-2text8222222222<br> 
+  * 2-3text9222222222<br>
+  6.use another way to wrap:'\<br>',look:<br>
+  just like this      
         
 
 end
