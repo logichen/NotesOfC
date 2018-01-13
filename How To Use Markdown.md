@@ -19,18 +19,20 @@ no 'tab'
 >>>PYTHON  
 >>>>grammer  
 >>>>logic  
->>tow'\>'  
->>>three'\>'  
->>>>four'\>'  
->>>>>five'\>' <br>
+>>no use tow'\>'  
+>>>no use three'\>'  
+>>>>no use four'\>'  
+>>>>>no use five'\>' <br>
 
 
->back1<br>
->>back2<br>
->>>back3<br>
->>>>back4<br>
->>>>>back5<br>
->>>3<br>
+>can't back1<br>
+>>cant back2<br>
+>>>cant back3<br>
+>>>>cant back4<br>
+>>>>>cant back5<br>
+>>>no use 3<br>
+>
+conclusion:1.can't go back.2.only'\>' can end these lines.<br>
 5.several'tab+star+space's to obtain this:<br> 
 * 1text1<br>
   * 1-1text2222222222<br>
