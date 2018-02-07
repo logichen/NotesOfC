@@ -29,7 +29,6 @@ of logic.And it also ouput true or false.
 
   算术关系逻辑赋值
 
-  `蒜素灌洗萝莉蝴芝`
 
 
 ## 算术运算
